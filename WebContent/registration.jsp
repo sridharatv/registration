@@ -43,7 +43,7 @@ input {
 </style>
 
 <body>
-	<h1 align=center>User Registration Form Version 2.0</h1>
+	<h1 align=center>User Registration Form Version 3.0</h1>
 	<div class="ex">
 		<form action="RegistrationController" method="post">
 			<table>
