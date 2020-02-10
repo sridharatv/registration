@@ -14,7 +14,7 @@ h1 {
 }
 
 body {
-	background-color:green;
+	background-color:lightyellow;
 }
 
 div.ex {
