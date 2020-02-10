@@ -42,6 +42,7 @@ input {
 }
 </style>
 
+
 <body>
 	<h1 align=center>User Registration Form Version 5.0</h1>
 	<div class="ex">
