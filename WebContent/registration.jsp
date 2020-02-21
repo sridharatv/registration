@@ -43,7 +43,7 @@ input {
 </style>
 
 <body>
-	<h1 align=center>User Registration Form Version Code Pipeline Demp</h1>
+	<h1 align=center>User Registration Form Version Code Pipeline Demo</h1>
 	<div class="ex">
 		<form action="RegistrationController" method="post">
 			<table>
