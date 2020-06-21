@@ -48,7 +48,7 @@ input {
 		<form action="RegistrationController" method="post">
 			<table>
 				<tr>
-					<td>Full Name</td>
+					<td>Full Name:</td>
 					<td><input type="text" name="fullname" /></td>
 				</tr>
 				<tr>
