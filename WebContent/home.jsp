@@ -35,7 +35,7 @@ body {
 <h1 align=center>Registration Success</h1>
 <table id ="nat">
 <tr>
-	<td>Full Name:</td>
+	<td>Full Name: </td>
 	<td><%= name %></td>
 </tr>
 <tr>
