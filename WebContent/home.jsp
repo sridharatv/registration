@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Updated Registration Status</title>
+<title>Registration Status For Demo</title>
 
 <style>
 h1 {
