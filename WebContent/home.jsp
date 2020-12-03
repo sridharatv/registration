@@ -32,7 +32,7 @@ body {
 	String Persent = request.getParameter("percent");
 	String Year = request.getParameter("yop"); %>
 
-<h1 align=center>Registration Success</h1>
+<h1 align=center>Registration Successful</h1>
 <table id ="nat">
 <tr>
 	<td>Full Name: </td>
