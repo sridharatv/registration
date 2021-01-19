@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Registration Status - Build from trigger</title>
+<title>Registration Status</title>
 
 <style>
 h1 {
