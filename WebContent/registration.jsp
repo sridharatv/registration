@@ -68,7 +68,7 @@ input {
 					<td><input type="text" name="percent" /></td>
 				</tr>
 				<tr>
-					<td>Year Passed:</td>
+					<td>Year Graduated:</td>
 					<td><input type="text" name="yop" /></td>
 				</tr>
 			</table>
