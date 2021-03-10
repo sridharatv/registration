@@ -52,23 +52,23 @@ input {
 					<td><input type="text" name="fullname" /></td>
 				</tr>
 				<tr>
-					<td>Address</td>
+					<td>Address:</td>
 					<td><input type="text" name="address" /></td>
 				</tr>
 				<tr>
-					<td>Age</td>
+					<td>Age:</td>
 					<td><input type="text" name="age" /></td>
 				</tr>
 				<tr>
-					<td>Qualification</td>
+					<td>Qualification:</td>
 					<td><input type="text" name="qual" /></td>
 				</tr>
 				<tr>
-					<td>Percentage</td>
+					<td>Percentage:</td>
 					<td><input type="text" name="percent" /></td>
 				</tr>
 				<tr>
-					<td>Year Passed</td>
+					<td>Year Passed:</td>
 					<td><input type="text" name="yop" /></td>
 				</tr>
 			</table>
